@@ -347,7 +347,7 @@ header #menu-btn:hover{
 
 .about .image img{
     width: 100%;
-    border: 1rem solid var(--purple);
+    /* border: 1rem solid var(--purple); */
 }
 
 .about .content{
